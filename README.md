@@ -1,5 +1,3 @@
-# katas-java
-
 ## Hi there! 👋
 
 I'm Higor, a Software Development student, building my career as a Java Software Engineer through disciplined study and deliberate practice.
