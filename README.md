@@ -1,11 +1,24 @@
-## Hi there! 👋
+# katas-java
 
-I'm Higor, a Software Development student, building my career as a Java Software Engineer through disciplined study and deliberate practice.
+A daily deliberate practice repository where I develop and refine my software engineering practice in Java.
 
-This repository documents my technical growth, starting with the fundamentals of programming logic. Here I version my learning journey through katas and exercises as I progress through object-oriented programming, data structures, automated testing, SOLID principles, Spring Boot, and other topics as they become part of my studies.
+## About Me
 
-More than a collection of solutions, this is a living repository. As I gain new knowledge and develop greater technical maturity, I revisit previous exercises to refactor implementations and apply better engineering practices. The commit history provides a transparent record of that evolution over time.
+I'm Higor, a software engineer focused on Java backend development. I use this repository to deepen my fundamentals, test ideas, and turn knowledge into practice through disciplined study and continuous experimentation.
 
-From the very beginning, I strive to develop professional engineering habits by writing clean code, creating meaningful commits, reviewing my solutions, and incorporating automated tests as they become relevant to the concepts I am studying.
+I currently develop Asymptora Collect, a collections and receivables product, and this repository is where I practice fundamentals and engineering practices before applying them to larger systems.
 
-My goal is to continuously improve, building a solid technical foundation and a public record that reflects my growth and my commitment to excellence in Java software engineering.
+My focus is not simply on writing code that works. I aim to understand the problem, evaluate trade-offs, recognize patterns, and make technical decisions that make sense for both the system and the business.
+
+## What's Here
+
+This repository documents the continuous development of my technical practice, starting with the fundamentals: programming logic, object-oriented programming, data structures, and, as they become relevant to the work, automated testing, SOLID principles, and Spring Boot.
+
+More than a collection of exercises, this is a living repository. As I gain new knowledge, I revisit previous exercises to refactor them and apply better engineering practices. The commit history is a transparent record of that evolution, not a polished final version.
+
+From the first commit, the goal has been to maintain professional habits: clean code, meaningful commits, self-review, and automated tests as they become relevant to what is being practiced.
+
+---
+
+No one requires this level of discipline from practice exercises.
+I do.
