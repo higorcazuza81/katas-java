@@ -1,24 +1,47 @@
 # katas-java
 
-A daily deliberate practice repository where I develop and refine my software engineering practice in Java.
+A deliberate practice repository for developing strong Java fundamentals and engineering habits.
 
-## About Me
+The repository starts with programming fundamentals, object-oriented programming, data structures, and algorithms,
+progressing into testing, SOLID principles, and Spring Boot as they become relevant.
 
-I'm Higor, a software engineer focused on Java backend development. I use this repository to deepen my fundamentals, test ideas, and turn knowledge into practice through disciplined study and continuous experimentation.
+Exercises are revisited and refactored as understanding improves. The commit history documents that evolution.
 
-I currently develop Asymptora Collect, a collections and receivables product, and this repository is where I practice fundamentals and engineering practices before applying them to larger systems.
+## Running Exercises
 
-My focus is not simply on writing code that works. I aim to understand the problem, evaluate trade-offs, recognize patterns, and make technical decisions that make sense for both the system and the business.
+Every exercise runs directly with `java Path/To/File.java`, no manual compilation step required.
 
-## What's Here
+## Progress
 
-This repository documents the continuous development of my technical practice, starting with the fundamentals: programming logic, object-oriented programming, data structures, and, as they become relevant to the work, automated testing, SOLID principles, and Spring Boot.
+### Phase 1 — Java Fundamentals
 
-More than a collection of exercises, this is a living repository. As I gain new knowledge, I revisit previous exercises to refactor them and apply better engineering practices. The commit history is a transparent record of that evolution, not a polished final version.
+| Module | Focus                       | Status      |
+|--------|-----------------------------|-------------|
+| M00    | How Java Runs               | Done        |
+| M01    | Data and Types              | In progress |
+| M02    | Operators and Expressions   | Planned     |
+| M03    | Console Input and Output    | Planned     |
+| M04    | Computational Thinking      | Planned     |
+| M05    | Decision                    | Planned     |
+| M06    | Repetition                  | Planned     |
+| M07    | Methods and Decomposition   | Planned     |
+| M08    | Text and Strings            | Planned     |
+| M09    | Arrays and Matrices         | Planned     |
+| M10    | Fundamental Algorithms      | Planned     |
+| M11    | Money and Decimal Precision | Planned     |
+| M12    | Correctness and Testing     | Planned     |
+| M13    | Robustness and Validation   | Planned     |
+| M14    | Diagnosis and Debugging     | Planned     |
+| M15    | Cost and Growth             | Planned     |
+| M16    | Modeling Real Problems      | Planned     |
+| M17    | Capstone Project            | Planned     |
 
-From the first commit, the goal has been to maintain professional habits: clean code, meaningful commits, self-review, and automated tests as they become relevant to what is being practiced.
+## Practice
+
+The repository follows a simple cycle:
+
+**Understand → Implement → Test → Review → Refactor**
+
+The goal is not to collect exercises, but to build understanding and progressively apply better engineering practices.
 
 ---
-
-No one requires this level of discipline from practice exercises.
-I do.
