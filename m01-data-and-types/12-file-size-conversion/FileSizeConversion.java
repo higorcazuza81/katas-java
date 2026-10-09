@@ -1,5 +1,5 @@
 void main() {
-    long bytes = 5368709120L;
+    long bytes = 5_368_709_120L;
 
     long kilobytes = bytes / 1024L;
     long megabytes = bytes / (1024L * 1024L);
