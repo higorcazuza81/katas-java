@@ -7,22 +7,21 @@ void main() {
 
     IO.println();
 
-    // Reference
+    // Reference: different String objects
+    String firstBalance = new String("balance");
+    String secondBalance = new String("balance");
 
-    String x = new String("balance");
-    String y = new String("balance");
-
-    IO.println(x == y);        // false, different objects in memory
-    IO.println(x.equals(y));   // true, same content
+    IO.println(firstBalance == secondBalance);       // false, different objects
+    IO.println(firstBalance.equals(secondBalance));  // true, same content
 
     IO.println();
 
+    // String pool: the same literal is reused
+    String literalBalance = "balance";
+    String sameLiteralBalance = "balance";
 
-    // test to observe string pool case
-    String w = "balance";
-    String z = "balance";
+    IO.println(literalBalance == sameLiteralBalance);       // true, same object from the string pool
+    IO.println(literalBalance.equals(sameLiteralBalance));  // true, same content
 
-    IO.println(w == z);        // true
-    IO.println(w.equals(z));   // true, repurposing of an object
-    
+    IO.println();
 }
