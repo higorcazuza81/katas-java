@@ -24,4 +24,10 @@ void main() {
     IO.println(literalBalance.equals(sameLiteralBalance));  // true, same content
 
     IO.println();
+
+    // User input
+    String typedBalance = IO.readln("Type the word balance: ");
+
+    IO.println(typedBalance == "balance");       // Do not rely on reference identity
+    IO.println(typedBalance.equals("balance"));  // Compares content
 }
