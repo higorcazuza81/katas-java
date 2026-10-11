@@ -3,10 +3,10 @@ void main() {
     final int MAX_LOAN_TERM_MONTHS = 60;
 
     var loanTermMonths = 36;
-    var principalAmount = 8500.75;
+    double principalAmount = 8500.75;
     var borrowerName = "Carlos Mendes";
 
-    var loanWithIof = principalAmount * (1 + IOF_RATE);
+    double loanWithIof = principalAmount * (1 + IOF_RATE);
 
     IO.println(IOF_RATE);
     IO.println(MAX_LOAN_TERM_MONTHS);
