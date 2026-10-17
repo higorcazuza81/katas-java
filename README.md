@@ -15,26 +15,26 @@ Every exercise runs directly with `java Path/To/File.java`, no manual compilatio
 
 ### Phase 1 — Java Fundamentals
 
-| Module | Focus                       | Status      |
-|--------|-----------------------------|-------------|
-| M00    | How Java Runs               | Done        |
-| M01    | Data and Types              | In progress |
-| M02    | Operators and Expressions   | Planned     |
-| M03    | Console Input and Output    | Planned     |
-| M04    | Computational Thinking      | Planned     |
-| M05    | Decision                    | Planned     |
-| M06    | Repetition                  | Planned     |
-| M07    | Methods and Decomposition   | Planned     |
-| M08    | Text and Strings            | Planned     |
-| M09    | Arrays and Matrices         | Planned     |
-| M10    | Fundamental Algorithms      | Planned     |
-| M11    | Money and Decimal Precision | Planned     |
-| M12    | Correctness and Testing     | Planned     |
-| M13    | Robustness and Validation   | Planned     |
-| M14    | Diagnosis and Debugging     | Planned     |
-| M15    | Cost and Growth             | Planned     |
-| M16    | Modeling Real Problems      | Planned     |
-| M17    | Capstone Project            | Planned     |
+| Module | Focus                       | Status  |
+|--------|-----------------------------|---------|
+| M00    | How Java Runs               | Done    |
+| M01    | Data and Types              | Done    |
+| M02    | Operators and Expressions   | Done    |
+| M03    | Console Input and Output    | Planned |
+| M04    | Computational Thinking      | Planned |
+| M05    | Decision                    | Planned |
+| M06    | Repetition                  | Planned |
+| M07    | Methods and Decomposition   | Planned |
+| M08    | Text and Strings            | Planned |
+| M09    | Arrays and Matrices         | Planned |
+| M10    | Fundamental Algorithms      | Planned |
+| M11    | Money and Decimal Precision | Planned |
+| M12    | Correctness and Testing     | Planned |
+| M13    | Robustness and Validation   | Planned |
+| M14    | Diagnosis and Debugging     | Planned |
+| M15    | Cost and Growth             | Planned |
+| M16    | Modeling Real Problems      | Planned |
+| M17    | Capstone Project            | Planned |
 
 ## Practice
 
